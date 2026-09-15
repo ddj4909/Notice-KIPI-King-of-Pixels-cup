@@ -1,3 +1,10 @@
+<size=112%><color=#FFD54F><b>2026.9.15</b></color></size>
+
+<size=108%><color=#7EC8FF><b>조작성 개선</b></color></size>
+- 캐릭터 선택창의 스킬 키 안내를 <color=#FFD54F><b>스페이스바</b></color>로 바꿨습니다.
+- <color=#FFD54F><b>연습 모드</b></color>에서 킥 방향을 알려주는 문구를 넣었습니다.
+
+
 <size=112%><color=#FFD54F><b>2026.9.13</b></color></size>
 
 <size=108%><color=#7EC8FF><b>봇 추가</b></color></size>
