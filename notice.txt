@@ -1,6 +1,6 @@
-<size=112%><color=#FFD54F><b>매일 12시 50분 개발자를 이겨라 이벤트 진행중!</b></color></size>
-- 개발자를 이기면 인당 음료 한잔씩 쏩니다!
-- <color=#FF8A80>운영실, 전략실 외에는 스크린샷 증빙이 필요합니다.</color>
+<size=112%><color=#FFD54F><b>친구와 함께 봇을 이겨라 이벤트 진행중!</b></color></size>
+- 팀을 이뤄 <color=#FFD54F><b>초급 / 중급 / 고급</b></color> 봇을 이기시면 인당 음료 한잔씩!
+- 난이도당 <color=#FF8A80>선.착.순 1팀</color>입니다
 
 <size=108%><color=#7EC8FF><b>인원이 부족하신가요?</b></color></size>
 <color=#FFD54F><b>봇</b></color>을 넣고 인원 관계없이 즐겨보세요!
