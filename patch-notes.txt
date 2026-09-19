@@ -1,3 +1,8 @@
+<size=112%><color=#FFD54F><b>2026.9.20</b></color></size>
+
+<size=108%><color=#7EC8FF><b>난이도 조정</b></color></size>
+- <color=#FFD54F><b>초급 봇</b></color>의 난이도가 낮아졌습니다.
+
 <size=112%><color=#FFD54F><b>2026.9.17</b></color></size>
 
 <size=108%><color=#7EC8FF><b>연출 개선</b></color></size>
