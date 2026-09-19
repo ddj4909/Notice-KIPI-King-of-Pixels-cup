@@ -1,3 +1,16 @@
+<size=112%><color=#FFD54F><b>2026.9.17</b></color></size>
+
+<size=108%><color=#7EC8FF><b>연출 개선</b></color></size>
+- <color=#FFD54F><b>대리인</b></color> 스킬과 <color=#FFD54F><b>태클</b></color> 시 카메라가 흔들립니다.
+- 골든오라 골이 들어가면 골대가 파괴됩니다.
+- 불릿타임 중에는 조준점이 고정됩니다.
+- 경기장 <color=#FFD54F><b>LED 배너</b></color>가 교차로 움직입니다.
+
+<size=108%><color=#7EC8FF><b>조작성 개선</b></color></size>
+- <color=#FFD54F><b>연습 모드</b></color>에서 ESC로 나갈 수 있다고 안내합니다.
+- 공지 버튼을 스페이스바로도 누를 수 있게 고쳤습니다.
+
+
 <size=112%><color=#FFD54F><b>2026.9.15</b></color></size>
 
 <size=108%><color=#7EC8FF><b>조작성 개선</b></color></size>
